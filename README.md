@@ -64,6 +64,10 @@ Visualizations
 •	Clustered Column Chart: Total Revenue by Category
 •	Clustered Column Chart: Top Customers by Revenue
 File: e_sale_analysis.pbix
+
+### Dashboard Preview
+![E-Sale Analysis Dashboard](Dashboard.png)
+
 ________________________________________
 Tools & Technologies
 •	MySQL – database design and querying
