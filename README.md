@@ -3,6 +3,9 @@
 ## Project Overview
 This project represents a complete sales data analysis workflow, starting with database creation and data insertion in SQL, continuing with data validation and pivot analysis in Excel, and finishing with interactive dashboards in Power BI.
 The goal of the project is to analyze sales performance, customer behavior, and revenue trends using realistic e-commerce data.
+
+### Dashboard Preview
+![E-Sale Analysis Dashboard](Dashboard.png)
 ________________________________________
 ## MySQL – Database Design & Analysis
 ### Database Structure
@@ -67,9 +70,6 @@ Power BI was used to create an interactive and business-oriented dashboard for s
 *   **Clustered Column Chart: Top Customers by Revenue**
   
 File: e_sale_analysis.pbix
-
-### Dashboard Preview
-![E-Sale Analysis Dashboard](Dashboard.png)
 
 ________________________________________
 ## Tools & Technologies
